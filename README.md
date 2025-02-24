@@ -4,7 +4,7 @@
 </div>
 
 ## 🌈 About Me
- 🍻 From China
+- 🍻 From China
 - ⚡ Tech stack: Java / Go / Python
 - 🏃 Hobby: Animation / Movie / Programming / Cycling
 
