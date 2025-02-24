@@ -45,5 +45,7 @@
 
 ## 💻 LeetCode Statistics
 <div align="center">
-    <img src="https://stats.justsong.cn/api/leetcode/?username=lucky845&cn_username=lucky845&theme=dark&cn=true" />
+    <a href="https://leetcode-cn.com/u/lucky845/">
+        <img src="https://stats.justsong.cn/api/leetcode/?username=lucky845&cn_username=lucky845&theme=dark" />
+    <a>
 </div>
