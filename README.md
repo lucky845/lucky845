@@ -49,3 +49,8 @@
         <img src="https://stats.justsong.cn/api/leetcode/?username=lucky845&cn_username=lucky845&theme=dark" />
     <a>
 </div>
+
+## 🌍 Visitor count
+<div align="center"> 
+  <img src="https://profile-counter.glitch.me/lucky845/count.svg" />
+</div>
