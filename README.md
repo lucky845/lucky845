@@ -62,7 +62,7 @@
 ## 💻 LeetCode Statistics
 <div align="center">
     <a href="https://leetcode-cn.com/u/lucky845/">
-        <img src="[https://stats.justsong.cn/api/leetcode?username=lucky845&cn=true&theme=dark](https://github-profile-views-plum.vercel.app/leetcode/username?theme=dark&cn=true)" />
+        <img src="https://github-profile-views-plum.vercel.app/leetcode/lucky845?theme=dark&cn=true" />
     <a>
 </div>
 
