@@ -15,7 +15,7 @@
 
 ## 🌈 About Me
 - 🍻 From China
-- ⚡ Tech stack: Java / Go / Python
+- ⚡ Tech stack: Java / Python
 - 🏃 Hobby: Animation / Movie / Programming / Cycling
 
 ## 📊 GitHub Statistics
