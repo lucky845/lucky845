@@ -1,20 +1,18 @@
 name: generate animation Crazy Snake
 
-于:
-  # run automatically every 12 小时之前
+on:
+  # run automatically every day 23:00
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 23 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
   
   # run on every push on the master branch
   push:
-    分支:
-    - master
+    branches:
+      - master
   
-  
-
 jobs:
   generate:
     permissions: 
