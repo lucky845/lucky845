@@ -34,7 +34,8 @@
 
 ## 🏆 GitHub Data Statistics
 <div align="center">
-    <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs?username=lucky845&layout=compact" /> 
+    <img src= "https://github-readme-stats.vercel.app/api?username=lucky845&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" /> 
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs?username=lucky845&langs_count=6&&hide=html,css" /> 
 </div>
 
 ## 🎯 Achievements and Activity
@@ -63,9 +64,4 @@
     <a href="https://leetcode-cn.com/u/lucky845/">
         <img src="https://github-profile-views-plum.vercel.app/leetcode/lucky845?theme=dark&cn=true" />
     <a>
-</div>
-
-## 🌍 Visitor count
-<div align="center"> 
-  <img src="https://github-profile-views-plum.vercel.app/github/username?theme=light" />
 </div>
