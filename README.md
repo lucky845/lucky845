@@ -27,7 +27,6 @@ Java / Python / TypeScript · 偶尔写点 Flutter 和 Chrome 扩展
 | **[deepseek-monitor](https://github.com/lucky845/deepseek-monitor)** · `Dart` | DeepSeek 用量监控，六端 Flutter 客户端（Android / iOS / macOS / Windows / Linux / Web） |
 | **[AnimeTimeline](https://github.com/lucky845/AnimeTimeline)** · `Python` · ⭐3 | 爬取新番放送表并整理成 Markdown 的自动化脚本 |
 | **[ts-tetris-game](https://github.com/lucky845/ts-tetris-game)** · `TypeScript` · ⭐2 | 基于 TypeScript + Canvas 的现代俄罗斯方块实现 |
-| **[easy-captcha](https://github.com/lucky845/easy-captcha)** · `Java` · ⭐1 | Spring Boot 验证码生成 starter，自动配置、开箱即用 |
 | **[group-avatar-generator](https://github.com/lucky845/group-avatar-generator)** · `TypeScript` | 九宫格群头像生成器，在线合成微信群风格头像 |
 | **[ouchn-course-brusher-script](https://github.com/lucky845/ouchn-course-brusher-script)** · `TypeScript` | 基于 Vue 3 + TypeScript 重写的油猴脚本 |
 
