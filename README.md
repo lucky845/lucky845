@@ -4,7 +4,7 @@
 
 **全栈开发者 · 喜欢把想法做成能用的东西**
 
-Java / Python / TypeScript · 偶尔写点 Flutter 和 Chrome 扩展
+Java / Python / TypeScript 
 
 **[博客](https://blog.lucky845.top)** · **[主页](https://lucky845.top)** · **[服务监控](https://monitor.lucky845.top)**
 
@@ -16,7 +16,7 @@ Java / Python / TypeScript · 偶尔写点 Flutter 和 Chrome 扩展
 
 <div align="center">
 
-**Java** · **Python** · **TypeScript** · **Vue** · **Dart** · **Spring Boot** · **Docker** · **Linux**
+**Java** · **Python** · **TypeScript** · **Vue** · **Docker** · **Linux**
 
 </div>
 
