@@ -36,12 +36,7 @@ Java / Python / TypeScript
 
 | 项目 | 简介 |
 | :--- | :--- |
-<<<<<<< HEAD
 | [ouchn-course-brusher-script](https://github.com/lucky845/ouchn-course-brusher-script) · `TypeScript` | 基于 Vue 3 + TypeScript 重写的油猴脚本 |
-| [daily-commit-bot](https://github.com/lucky845/daily-commit-bot) | 自动提交机器人 |
-=======
-| [github-profile-statistics-card](https://github.com/lucky845/github-profile-statistics-card) | GitHub / LeetCode / CSDN / B站 数据统计卡片生成服务 |
->>>>>>> c8ea90b (feat: add easy-captcha to featured, remove daily-commit-bot)
 | [lucky845.github.io](https://github.com/lucky845/lucky845.github.io) | 个人主页源码（Vue 3 + Vite） |
 | [lucky845-blog](https://github.com/lucky845/lucky845-blog) | Hexo + Butterfly 博客部署产物 |
 
