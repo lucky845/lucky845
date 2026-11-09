@@ -30,6 +30,7 @@ Java / Python / TypeScript
 | **[ts-tetris-game](https://github.com/lucky845/ts-tetris-game)** · `TypeScript` · ⭐2 | 基于 TypeScript + Canvas 的现代俄罗斯方块实现 |
 | **[group-avatar-generator](https://github.com/lucky845/group-avatar-generator)** · `TypeScript` | 九宫格群头像生成器，在线合成微信群风格头像 |
 | **[github-profile-statistics-card](https://github.com/lucky845/github-profile-statistics-card)** | GitHub / LeetCode / CSDN / B站 数据统计卡片生成服务 |
+| **[lucky845-frontend-toolbox](https://github.com/lucky845/lucky845-frontend-toolbox)** · `React` | 23 个前端小工具，按文本、编码、数据格式化、开发辅助、图像、对比分成六块，纯本地运行、零上传 |
 
 <details>
 <summary>更多仓库 →</summary>
