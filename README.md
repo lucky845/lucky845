@@ -38,7 +38,7 @@ Java / Python / TypeScript
 | 项目 | 简介 |
 | :--- | :--- |
 | [ouchn-course-brusher-script](https://github.com/lucky845/ouchn-course-brusher-script) · `TypeScript` | 基于 Vue 3 + TypeScript 重写的油猴脚本 |
-| [lucky845.github.io](https://github.com/lucky845/lucky845.github.io) | 个人主页源码（Vue 3 + Vite） |
+| [lucky845-site](https://github.com/lucky845/lucky845-site) | 个人主页源码（Vue 3 + Vite） |
 | [lucky845-blog](https://github.com/lucky845/lucky845-blog) | Hexo + Butterfly 博客部署产物 |
 
 </details>
