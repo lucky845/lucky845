@@ -31,6 +31,9 @@ Java / Python / TypeScript
 | **[group-avatar-generator](https://github.com/lucky845/group-avatar-generator)** · `TypeScript` | 九宫格群头像生成器，在线合成微信群风格头像 |
 | **[github-profile-statistics-card](https://github.com/lucky845/github-profile-statistics-card)** | GitHub / LeetCode / CSDN / B站 数据统计卡片生成服务 |
 | **[lucky845-frontend-toolbox](https://github.com/lucky845/lucky845-frontend-toolbox)** · `React` | 23 个前端小工具，按文本、编码、数据格式化、开发辅助、图像、对比分成六块，纯本地运行、零上传 |
+| **[easy-pow](https://github.com/lucky845/easy-pow)** · `Java` | PoW 无感验证码，协议兼容 altcha；零依赖核心 + Spring Boot Starter，难度自适应 |
+| **[new-tab-chrome-extension](https://github.com/lucky845/new-tab-chrome-extension)** · `JavaScript` | New Tab Pro 新标签页：壁纸、时钟、天气、待办、便签、番茄钟，零后端零 API Key |
+| **[translation-chrome-extension](https://github.com/lucky845/translation-chrome-extension)** · `JavaScript` | 一键整页翻译，保留链接与排版；Manifest V3、零运行时依赖 |
 
 <details>
 <summary>更多仓库 →</summary>
