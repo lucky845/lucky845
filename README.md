@@ -6,7 +6,7 @@
 
 Java / Python / TypeScript 
 
-**[博客](https://blog.lucky845.top)** · **[主页](https://lucky845.top)** · **[服务监控](https://monitor.lucky845.top)**
+**[博客](https://blog.lucky845.top)** · **[主页](https://lucky845.top)** · **[服务监控](https://monitor.lucky845.top)** · **[番剧日历](https://animetimeline.lucky845.top)**
 
 </div>
 
@@ -26,7 +26,7 @@ Java / Python / TypeScript
 | :--- | :--- |
 | **[deepseek-monitor](https://github.com/lucky845/deepseek-monitor)** · `Dart` | DeepSeek 用量监控，六端 Flutter 客户端（Android / iOS / macOS / Windows / Linux / Web） |
 | **[easy-captcha](https://github.com/lucky845/easy-captcha)** · `Java` · ⭐1 | Spring Boot 验证码生成 starter，自动配置、开箱即用 |
-| **[AnimeTimeline](https://github.com/lucky845/AnimeTimeline)** · `Python` · ⭐3 | 爬取新番放送表并整理成 Markdown 的自动化脚本 |
+| **[AnimeTimeline](https://animetimeline.lucky845.top)** · `Python` · ⭐3 | 番剧播出日历，按周看排播、导出 ics 订阅；[数据爬虫脚本](https://github.com/lucky845/AnimeTimeline) 每日自动同步 |
 | **[ts-tetris-game](https://github.com/lucky845/ts-tetris-game)** · `TypeScript` · ⭐2 | 基于 TypeScript + Canvas 的现代俄罗斯方块实现 |
 | **[group-avatar-generator](https://github.com/lucky845/group-avatar-generator)** · `TypeScript` | 九宫格群头像生成器，在线合成微信群风格头像 |
 | **[github-profile-statistics-card](https://github.com/lucky845/github-profile-statistics-card)** | GitHub / LeetCode / CSDN / B站 数据统计卡片生成服务 |
